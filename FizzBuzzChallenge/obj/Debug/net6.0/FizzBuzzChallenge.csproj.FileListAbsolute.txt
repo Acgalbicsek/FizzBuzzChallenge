@@ -1,0 +1,5 @@
+C:\Users\acgal\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.csproj.AssemblyReference.cache
+C:\Users\acgal\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acgal\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\acgal\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\acgal\source\repos\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\net6.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
