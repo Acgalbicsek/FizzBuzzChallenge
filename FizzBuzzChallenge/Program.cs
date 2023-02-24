@@ -1,37 +1,32 @@
 ﻿using System;
 using System.Reflection;
-
+using System.Security.Cryptography.X509Certificates;
 
 namespace Whiteboard 
 {
-    public static class FizzBuzz
+    public class Program
     {
-        public static string FizzOrBuzz(int number)
+        static void Main(string[] args)
         {
-            var result = "";
-            if (number % 3 == 0)
+            static string FizzBuzz(int number)
             {
-                result = "fizz";
-            }
-            if (number % 5 == 0)
-            {
-                result += "buzz";
-            }
-            return result;
-            //var num = 0;
-            //if(num % 3 == 0)
-            //{
-            //    return "fizz";
+                var result = "";
+                if (number % 3 == 0)
+                {
+                    return "fizz";
 
-            //}
-            //else if(num % 5 == 0)
-            //{
-            //    return "buzz";
-            //}
-            //if(num % 3 == 0 && num % 5 == 0)
-            //{
-            //    return "FizzBuzz";
-            //}
+                }
+                else if (number % 5 == 0)
+                {
+                    return "buzz";
+                }
+                if (number % 3 == 0 && number % 5 == 0)
+                {
+                    return "FizzBuzz";
+                }
+            }
+          
+           
         }
 
     }
